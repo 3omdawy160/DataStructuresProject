@@ -1,3 +1,5 @@
+#include "Consistent.h"
+
 string Consistent(string s)
 {
 	string y,z,found,r;
