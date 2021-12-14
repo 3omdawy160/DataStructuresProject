@@ -1,4 +1,4 @@
-#include "Consistent.h"
+#include "header.h"
 
 string Consistent(string s)
 {
