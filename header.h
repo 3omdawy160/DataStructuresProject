@@ -5,6 +5,8 @@
 #include<string>
 #include <stack>
 #include <vector>
+#include <stdlib.h>
+#include <unordered_map>
 using namespace std;
 
 #endif /* DATASTRUCTURESPROJECT_H_ */
