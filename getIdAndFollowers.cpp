@@ -1,4 +1,4 @@
-#include "getIdAndFollowers.h"
+#include "header.h"
 string getIdAndFollowers(string s)
 {
 	int counter=0;
